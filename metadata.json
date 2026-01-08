@@ -1,0 +1,7 @@
+{
+  "name": "TTL Nexus - Lab Platform v3",
+  "description": "A comprehensive management platform for the Tunisia Tourism Lab, enabling program managers to oversee incubation, experiential circuits, M&E, and knowledge capitalization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
